@@ -80,11 +80,11 @@ class HomeIndex extends React.Component {
                     <section id="two">
                         <div className="inner">
                             <header className="major">
-                                <h2>Projects</h2>
+                                <h2>Resume</h2>
                             </header>
-                            <p>Click to see all the master piece touched by Doobin and his team. </p>
+                            <p>Here is the resume incase the HR asks for it.</p>
                             <ul className="actions">
-                                <li><Link to="/landing" className="button next">Get Started</Link></li>
+                                <li><Link to="/generic" className="button next">Resume</Link></li>
                             </ul>
                         </div>
                     </section>

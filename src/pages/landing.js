@@ -20,9 +20,9 @@ const Landing = (props) => (
             <section id="one">
                 <div className="inner">
                     <header className="major">
-                        <h2>Projects</h2>
+                        <h2>Gallery</h2>
                     </header>
-                    <p>These are some of my favorite works using React. My team and I used Javascript to write the functions, and learned to connect Google Firebase to create a forum the user can fill out.</p>
+                    <p>Take a look at my previous work.</p>
                 </div>
             </section>
             <section id="two" className="spotlights">
